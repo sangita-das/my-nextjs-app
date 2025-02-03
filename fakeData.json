@@ -1,0 +1,45 @@
+{
+    "products": [
+  {
+    "id": 1,
+    "productName": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 99.99,
+    "image": "HEADPHONES"
+  },
+  {
+    "id": 2,
+    "productName": "Smartphone",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 699.99,
+    "image": "SMARTPHONE"
+  },
+  {
+    "id": 3,
+    "productName": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Nike",
+    "price": 129.99,
+    "image": "SHOES"
+  },
+  {
+    "id": 4,
+    "productName": "Gaming Laptop",
+    "category": "Computers",
+    "brand": "ASUS",
+    "price": 1499.99,
+    "image": "LAPTOP"
+  },
+  {
+    "id": 5,
+    "productName": "Smartwatch",
+    "category": "Wearables",
+    "brand": "Apple",
+    "price": 399.99,
+    "image": "SMARTWATCH"
+  }
+]
+
+}
