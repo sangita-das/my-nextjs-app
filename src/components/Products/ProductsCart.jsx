@@ -5,13 +5,15 @@ const ProductsCart = ({product}) => {
         <div>
             <h2 className="text center text-2xl">Product Cart</h2>
             <div className='relative w-full h-52 object--contain'>
-                <Image
+            <h1>{product.image}</h1>
+            <h4>{product.productName}</h4>
+              {/*   <Image
                 src={product.image}
                 alt={product.productName}
                 width={1500}
                 height={800}
                 className= "rounded-t-lg h-56"
-                />
+                /> */}
             </div>
         </div>
     );
